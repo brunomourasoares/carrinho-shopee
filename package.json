@@ -1,0 +1,13 @@
+{
+  "name": "carrinho-shopee",
+  "version": "0.0.1",
+  "description": "Controle de um carrinho de compras de uma loja virtual",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
